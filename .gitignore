@@ -1,0 +1,17 @@
+# Installed skills — restored from skills-lock.json via `npx skills`
+.agents/
+
+# Agent scratch space (local tickets, research notes, throwaway prototypes)
+.scratch/
+
+# Claude Code local state (the skills symlink itself IS tracked)
+.claude/settings.local.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
